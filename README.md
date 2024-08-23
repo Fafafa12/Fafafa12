@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Faneva]! 👋
+
+I'm a student passionate about learning and exploring new technologies. I'm currently focusing on my study at 42 Antananarivo , and I'm excited to share my journey with you!
+
+### 📚 What I'm Currently Learning
+- [Course or Subject #1]
+- [Course or Subject #2]
+- [Programming Language or Technology #1]
+- [Programming Language or Technology #2]
+
+### 🛠️ Skills
+- Programming Languages: C, C++, Python ...
+- Web Development: JS, PHP ...
+- Tools: Git, VSCode, Figma ....
+
+### 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rakotonoela-anjaratiana-faneva-3480b4250/)
+
+Thanks for stopping by! 😊
+
 
 <!--
 **Fafafa12/Fafafa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
