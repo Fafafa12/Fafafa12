@@ -1,12 +1,6 @@
-# Hi there, I'm Faneva]! 👋
+# Hi there, I'm Faneva! 👋
 
 I'm a student passionate about learning and exploring new technologies. I'm currently focusing on my study at 42 Antananarivo , and I'm excited to share my journey with you!
-
-### 📚 What I'm Currently Learning
-- [Course or Subject #1]
-- [Course or Subject #2]
-- [Programming Language or Technology #1]
-- [Programming Language or Technology #2]
 
 ### 🛠️ Skills
 - Programming Languages: C, C++, Python ...
